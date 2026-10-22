@@ -6,6 +6,10 @@ and Groq. The application generates a personalized letter,
 allows a human to review and edit it, and requires an explicit
 decision before making the approved letter available.
 
+## Live Demo
+
+Try the deployed application here: [AI Approval-Based Agent](https://approval-based-agent-be7d5bqynsu97qgdyljn3z.streamlit.app/#ai-approval-based-agent)
+
 ## Features
 
 - AI-generated letters using a Groq-hosted language model
